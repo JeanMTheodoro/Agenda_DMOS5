@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Agenda_DMOS5</string>
+    <string name="hint_edittext_nome_novo_contato">Nome:</string>
+    <string name="hint_edittext_telefone_fixo">Telefone Fixo:</string>
+    <string name="hint_edittext_telefone_celualar">Telefone Celular:</string>
+    <string name="text_bnt_salvar_novo_usuario">Salvar</string>
+    <string name="erro_duplicate_telefone_celualar">Erro ao inserir o registro no banco</string>
+    <string name="erro_empty_fields">Preencha todos os campos Corretamente</string>
+</resources>
